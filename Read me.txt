@@ -1,0 +1,8 @@
+Pentbt 1.0
+
+Pentbx is a powerfull batch penetration testing tool with many functionnality:
+- fingerprint
+- password cracking
+- database intrusion
+- sniffing
+- social engeneering...
